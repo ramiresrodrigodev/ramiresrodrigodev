@@ -74,6 +74,8 @@ A full-featured personal finance management API built from scratch. Features ful
 
 A full-stack management app for construction material inventory. Java handles backend logic via CLI, while a self-contained React frontend (zero build step required) delivers a polished UI with SVG charts, CSV export, and an AI Assistant tab.
 
+[`ramiresrodrigodev/ConstructionMaterialsApp`](https://github.com/ramiresrodrigodev/construction-materials-app)
+
 **Highlights:**
 - No-build React frontend — just open the HTML
 - Real-time SVG charts for inventory visualization
