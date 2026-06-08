@@ -6,7 +6,7 @@
 
 ---
 
-## About
+## 🚀 About Me
 
 ```
 Rodrigo Ramires
